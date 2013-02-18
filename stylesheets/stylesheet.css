@@ -157,7 +157,10 @@ a.button span {
 }
 
 #projects span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
+  background: transparent url(../images/24_carousel.png) 12px 50% no-repeat;
+}
+#join-us span {
+  background: transparent url(../images/24_structure.png) 12px 50% no-repeat;
 }
 #download-zip span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
